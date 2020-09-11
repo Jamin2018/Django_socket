@@ -1,0 +1,2 @@
+跟python manage.py runserver效果一样，只是通过asgi而不是wsgi
+uvicorn Django_socket.my_asgi:application
